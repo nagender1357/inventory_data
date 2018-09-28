@@ -1,0 +1,414 @@
+
+@media only screen and (max-width: 1024px) {
+.gridcate > li {
+    width: 30%;
+
+}
+.hotelinfo {
+    width: 44%;
+  
+}
+}
+@media only screen and (max-width: 899px) {
+
+    .header{ text-align: center; }
+
+    .helplinetxt.text-right {
+    display: inline-block;
+    padding: 0 3px;
+    vertical-align: middle;
+}
+ 
+}
+@media only screen and (max-width: 800px) {
+   .creditbox li {
+    padding: 10px 8px;
+    font-size: 15px;
+    margin: 0;
+}
+.welcomebox {
+    padding: 12px 0;
+    
+}
+.dashbord {
+    width: 26%;
+    padding-right: 0px;
+}
+ul.submenu, .profilemenu {
+    width: 190px;
+    }
+.statusboxhome h2 {
+    font-size: 14px;
+}
+.routeround {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.modifyselect {
+    float: none;
+}
+.result {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.heading_bar{ display: none; }
+.listbooking li:nth-child(1), .heading_bar li:nth-child(1) {
+    width: 19%;
+}
+.listbooking li:nth-child(5), .heading_bar li:nth-child(5) {
+    width: 11%;
+}
+.listbooking li {
+    font-size: 11px; 
+    width: 20%;
+    margin: 4px;
+}
+.pricetxt label {
+    font-size: 11px;
+}
+.listbookininfo li {
+    font-size: 12px;
+    width: 100%;
+}
+.listbookininfo {
+      margin-bottom: 15px;
+      border-top: none;
+}
+
+.pathway {
+    padding: 12px 10px;
+
+}
+.pathway .flight_dis {
+    top: -30px;
+    position: relative;
+}
+.flight_setting > .allbook {
+      width: 100%;
+      box-sizing: border-box;
+  
+}
+.flight_setting{ height: auto; }
+.flight_setting .bookingmore {
+    width: 84%;
+    margin-left: 0;
+    float: none;
+    margin: 0 auto;
+}
+.bgwhitebox {
+    margin-top: 13px;
+}
+.returnflights {
+    display: block;
+    background: #d32c31;
+    color: #fff;
+    padding: 13px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.flight_setting > .allbook { 
+    float: none;
+}
+.departurelist > li:first-child {
+    width: 100%;
+}
+ul.departurelist > li:nth-child(2) {
+    width: 100%;
+    margin-top: 20px;
+}
+.departheading > li:last-child, .departurelist > li:last-child {
+    width: 23%;
+    float: right;
+}
+.departheading{ display: none; }
+.dropdownlist {
+    position: relative;
+    width: 100%;
+    float: left;
+    top: 20px;
+    left: 10px;
+}
+.multicityboking li:last-child {
+     margin-top: -40px;
+}
+.hotelimg { 
+    width: 52%;
+    margin-right: 0;
+}
+
+.freehotel > li {
+    float: left;
+    padding: 15px 5px 15px 23px;
+    margin-right: 0px;
+}
+.hotelinfo {
+    width: 100%;
+    border-right: none;
+    padding-right: 20px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+.rthotel {
+    float: right;
+    text-align: center;
+    line-height: 35px;
+    padding: 0;
+    width: 100%;
+}
+.gridcate > li {
+    width: 46%;
+    float: left;
+    margin: 10px;
+}
+.tabbinglist li a { padding: 15px 16px;}
+.wonderbox li {
+    width: 32%;  
+}
+.roomclass .hotelimg {
+    width: 34%;
+}
+.sepratebox {
+    width: 60%;
+}
+.hotelinfo {
+    padding: 0 20px 0 0;
+
+}
+.choseroom a {
+    padding: 0 7px;
+  
+}
+}
+
+@media only screen and (max-width: 530px) {
+
+.tabbooklnk li {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.tabbooking {
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.tabcontent {
+    width: 100%;
+    float: left;
+    background: #fff;
+    box-shadow: rgba(0,0,0,.1) 2px 2px 2px 2px;
+    padding: 20px;
+    position: relative;
+    box-sizing: border-box;
+}
+.creditbox li {
+     margin: 0;
+     border:none;
+    
+}
+.dashbord {
+    width: 38%;
+    padding-right: 10px;
+    margin-right: 20px;
+    float: none;
+    display: inline-block;
+}
+.helplinetxt.text-right {
+    display: inline-block;
+    padding: 0;
+    width: 100%;
+    text-align: center !important;
+}
+.content {
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+.typebox li {
+    margin-right: 4px;
+   
+}
+ul.stops li a {
+    width: 39px;
+}
+.routeround {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.modiflybtn {
+    float: right;
+    margin-top: 29px;
+}
+.modifyselect {
+    float: left;
+    margin-top: 0;
+}
+.modiflybtn {
+    margin-top: 0;
+}
+.heading_bar{ display: none; }
+.listbooking li {
+    font-size: 11px;
+    width: 22%;
+    margin: 4px;
+}
+.flight_mid {
+    width: 16%;
+    font-size: 11px;
+ 
+}
+.pathway i {
+    position: absolute;
+    width: 120px;
+}
+.result {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.bgwhite .refinesearch {
+    font-size: 19px; 
+    text-align: left;
+    color: #000;
+    padding: 10px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    background: #eee url(../img/plus_icon.png) no-repeat right center;
+}
+.minusicon{ background: #eee url(../img/minus-icon.png) no-repeat right center !important;}
+.part{ display: none; }
+.header .text-right{ text-align: center !important;  }
+.refinesearch label {
+    margin-bottom: 0;
+}
+.refinesearch{ display: block; }
+
+
+.list_bg .mainprice {
+    padding: 0;
+}
+.heading_bar_box{ display: none; }
+.textpos label,  .pricetxt label {
+    font-size: 13px;
+    display: block;
+    margin-bottom: 0;
+}
+.modiflybtn a {
+    font-size: 11px;
+    padding: 10px 12px;
+}
+.departurelist > li:first-child {
+    width: 100%;
+    margin-bottom: 42px;
+}
+ul.departurelist > li:nth-child(2) {
+    width: 100%;
+}
+.departurelist .flight_mid {
+    width: 17%;
+}
+.departheading > li:last-child, .departurelist > li:last-child {
+    width: 100%;
+    float: right;
+    padding: 10px 0 0 20px;
+}
+.dropdownlist {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.departheading{ display: none; }
+ul.departurelist {
+    padding-top: 0;
+}
+.multicityboking li:nth-child(2) {
+    padding-left: 20px;
+    margin-top: -25px;
+}
+.creditbox li{ border-left: none; }
+.gridcate > li {
+    width: 100%;
+    float: left;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.hotelimg {
+    width: 100%;
+    margin-right: 0;
+}
+.filter_btn{ display: none; }
+.hotelinfo h2 {
+     padding: 0;
+}
+.hotelinfo {
+    padding: 10px;
+}
+.hotellisting > li {
+    padding-bottom: 20px;
+}
+.freehotel > li {
+    padding: 10px 5px 10px 23px;
+
+}
+.roombtn {
+    float: right;
+    margin-top: 0;
+    text-align: center;
+    width: 100%;
+}
+.titlebox {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.tabbinglist li a {
+    padding: 15px 14px;
+}
+.wonderbox li {
+    width: 49%;
+}
+.roomclass .hotelimg {
+    width: 100%;
+}
+.sepratebox {
+    width: 100%;
+}
+.roomclass .hotelinfo {
+    width: 100%;
+}
+.roomclass .rthotel {
+    padding: 0px 20px;
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+
+.choseroom a {
+    padding: 5px 7px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.hotelinfo h2 {
+    padding: 0;
+    padding-bottom: 10px;
+    margin-bottom: 16px;
+}
+.addbox {
+    margin-bottom: 8px;
+    padding-left: 0;
+}
+.checkinbox li {
+    float: left;
+    padding: 10px 20px;
+    font-size: 15px;
+    border: #eee 1px solid;
+    width: 50%;
+    text-align: center;
+}
+}
